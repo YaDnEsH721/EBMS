@@ -1,0 +1,11 @@
+*Admin Login* 
+ Email   : admin@gmail.com
+ Password: admin
+
+*User Login*
+ Email   : yadnesh@gmail.com
+ password: rolex@123
+
+*Database Name - `ebillsystem`*
+
+*Recommended PHP version 5.6 or Newer*
